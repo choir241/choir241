@@ -1,37 +1,18 @@
-<h1 align="center">Hi I'm Richard!</h1>
-<h3 align="center">A software engineer passionate about learning</h3>
-
-[![Follow @choir241](https://img.shields.io/badge/-Follow%20@choir241-blue?logo=twitter&style=flat-square)](https://x.com/home)
-[![Follow richard-choir](https://img.shields.io/badge/-Follow%20richardchoir-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/richard-choir/)
-  
-- 👨‍💻 All of my projects are available at [https://choir.netlify.app/](https://choir.netlify.app/)
-
-- 📫 How to reach me **richardchoi54@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1Gw7hqvLquVzKwg7fD3sfF1NGvoG0dFRzTI5rR-yEPkw/edit#heading=h.tuknjgoukcwn)
-  
-<img src = "https://github.com/choir27/choir27/assets/66279068/9b85790e-2b86-428c-9ff2-fcc859fe6494" alt = "choir Logo" width = "100%">
-
-<h3 align="left">Languages, Frameworks, Libraries, and Tools:</h3>
-
-<ul>
-<li>Next</li>
-<li>TypeScript</li>
-<li>React</li>
-   -HTML/EJS/Handlebars <br>
-   -JS <br>
-   -CSS
-<li>Node.js</li>
-   -Express.js
-<li>Vite</li>
-<li>Zustand</li>
-<li>MongoDB</li>
-<li>AppWrite</li>
-<li>Git</li>
-</ul>
-
-![Screenshot 2024-03-11 171337](https://github.com/choir27/choir27/assets/66279068/c9f6e0e4-bbe2-4020-9d52-f4df12b16656)
+# 💫 About Me:
+I'm currently working on Gridiron Survivor.<br>I'm looking to collaborate on Coffee Chats, let's connect!<br>I'm currently learning more about Javascript and Techical Writing.<br>I like to draw on the side and learn piano!<br>Reach me out at https://twitter.com/choir241~
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/225kh_drw) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/richard-choir) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/choir241) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/choir241) 
 
-                                                    
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=choir241&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=choir241&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=choir241&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=choir241&icon=9&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
