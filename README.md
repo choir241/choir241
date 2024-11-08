@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm currently working on Gridiron Survivor.<br>I'm looking to collaborate on Coffee Chats, let's connect!<br>I'm currently learning more about Javascript and Techical Writing.<br>I like to draw on the side and learn piano!<br>Reach me out at https://twitter.com/choir241~
+- I'm currently working on Gridiron Survivor.
+- I'm currently learning more about Javascript and Techical Writing
+- I like to draw on the side and learn piano!
+- Reach me out at https://twitter.com/choir241
 
 
 ## 🌐 Socials:
