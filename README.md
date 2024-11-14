@@ -2,8 +2,6 @@
 - I'm currently working on Gridiron Survivor.
 - I'm currently learning more about Javascript and Techical Writing
 - I like to draw on the side and learn piano!
-- Reach me out at https://twitter.com/choir241
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/225kh_drw) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/richard-choir) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/choir241) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/choir241) 
