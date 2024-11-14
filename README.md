@@ -1,5 +1,5 @@
 # 💫 About Me:
-- I'm currently working on Gridiron Survivor.
+- I'm currently working on [Gridiron Survivor](https://github.com/LetsGetTechnical/gridiron-survivor).
 - I'm currently learning more about Javascript and Techical Writing
 - I like to draw on the side and learn piano!
 
